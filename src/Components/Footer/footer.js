@@ -6,7 +6,7 @@ function Footer() {
     <ul className="footer-page">
       <li>
         <a
-          href="https://www.facebook.com/profile.php?id=100013766836568"
+          href="https://www.facebook.com/"
           rel="noopener noferrer"
           target="blank"
         >

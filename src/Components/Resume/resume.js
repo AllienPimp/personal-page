@@ -65,7 +65,7 @@ class ResumePage extends React.Component {
               <ul className="social-media-icons">
                 <li>
                   <a
-                    href="https://www.facebook.com/profile.php?id=100013766836568"
+                    href="https://www.facebook.com/"
                     rel="noopener noferrer"
                     target="blank"
                   >
