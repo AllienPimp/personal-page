@@ -64,7 +64,7 @@ function ProjectsPage() {
           <Card className="card-element">
             <Card.Img variant="top" src={imgProj03} />
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>The Clock</Card.Title>
               <Card.Text className="text-link">
                 <a
                   href="https://allienpimp.github.io/JS-clock-App/"
@@ -110,7 +110,7 @@ function ProjectsPage() {
           <Card className="card-element">
             <Card.Img variant="top" src={imgProj02} />
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>Slalom Game</Card.Title>
               <Card.Text className="text-link">
                 <a
                   href="https://allienpimp.github.io/The-slalom-game/"
