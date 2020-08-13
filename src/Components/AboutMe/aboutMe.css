@@ -1,0 +1,37 @@
+.about-page-row {
+  font-family: Roboto;
+  height: calc;
+  min-height: calc(100vh - 150px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+}
+
+.about-page-column1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-page-column2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img {
+  max-width: 90%;
+  border-radius: 15%;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+.text {
+  margin: 0;
+  text-align: center;
+  padding-top: 30px;
+}

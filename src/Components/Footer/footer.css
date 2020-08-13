@@ -1,0 +1,29 @@
+.footer-page {
+  height: 50px;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 60%,
+    rgba(224, 224, 224, 1) 90%
+  );
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  font-family: Oxygen;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+}
+.footer-page a {
+  text-decoration: none;
+  color: rgb(219, 148, 64);
+}
+.footer-page a:hover {
+  text-decoration: none;
+  color: gray;
+}

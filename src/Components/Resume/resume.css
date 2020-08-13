@@ -1,0 +1,65 @@
+.resume-page {
+  font-family: Roboto;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.resume-page .intro-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 2px black solid;
+}
+.resume-page .intro-column h2 {
+  font-weight: bold;
+}
+.resume-page .intro-column p {
+  text-align: justify;
+}
+.resume-page .contact-me-text {
+  font-weight: bold;
+}
+.resume-page .contact-column {
+  padding-left: 10px;
+  border-left: 2px black solid;
+}
+.resume-page .social-media-icons {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.resume-page .social-media-icons a {
+  padding-right: 20px;
+  text-decoration: none;
+  color: rgb(219, 148, 64);
+}
+.resume-page .social-media-icons a:hover {
+  text-decoration: none;
+  color: gray;
+}
+.resume-page .resume-title-column {
+  display: flex;
+  align-items: center;
+}
+.resume-page .education-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.resume-page .experience-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-bottom: 30px;
+}
+.resume-page .skills-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

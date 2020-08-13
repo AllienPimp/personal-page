@@ -1,0 +1,12 @@
+.resume-detail-container .resume-detail-title {
+  cursor: pointer;
+}
+.resume-detail-container .resume-detail-title:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+.resume-detail-container .resume-detail-text {
+  display: none;
+}
+.resume-detail-container .open {
+  display: unset;
+}

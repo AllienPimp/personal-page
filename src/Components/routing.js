@@ -1,10 +1,10 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
-import ContactPage from "./contact";
-import ResumePage from "./resume";
-import ProjectsPage from "./projects";
-import AboutPage from "./aboutMe";
-import HomePage from "./homePage";
+import ContactPage from "../Components/Contact/contact";
+import ResumePage from "../Components/Resume/resume";
+import ProjectsPage from "../Components/Projects/projects";
+import AboutPage from "../Components/AboutMe/aboutMe";
+import HomePage from "../Components/LandingPage/homePage";
 
 function Routing() {
   return (
